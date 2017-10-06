@@ -29,6 +29,7 @@ $ docker run --rm -v $(pwd):/screenshot chrome-snapper <URL>
 
 - [Chromeshot](https://github.com/tonious/chromeshot) - Screenshot websites using headless Chrome and Docker.
 - [chrome-headless-screenshots](https://github.com/schnerd/chrome-headless-screenshots) - Using headless Chrome as an automated screenshot tool.
+- [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) - EyeWitness is designed to take screenshots of websites, provide some server header info, and identify default credentials if possible.
 
 ## License
 
