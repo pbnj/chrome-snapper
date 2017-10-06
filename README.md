@@ -23,7 +23,7 @@ $ docker run --rm -v $(pwd):/screenshot chrome-snapper <URL>
 
 ## Demo
 
-![demo](demo/chrome-shot.gif)
+![Demo](demo/chrome-snapper.gif)
 
 ## Related
 
