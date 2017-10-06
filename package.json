@@ -1,0 +1,15 @@
+{
+  "name": "chrome-snapper",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Benjamin <PeterMBenjamin@gmail.com> (https://petermbenjamin.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "puppeteer": "^0.11.0"
+  }
+}
