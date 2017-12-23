@@ -1,5 +1,7 @@
 # chrome-snapper
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/petermbenjamin/chrome-snapper.svg)](https://greenkeeper.io/)
+
 > 🏙 Convert URLs to images using headless Chrome, [Puppeteer](https://github.com/GoogleChrome/puppeteer), & Docker
 
 ## The Problem
